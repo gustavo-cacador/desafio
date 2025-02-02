@@ -1,6 +1,6 @@
 package com.devgustavo.desafio.services;
 
-import com.devgustavo.atividade.entities.Order;
+import com.devgustavo.desafio.entities.Order;
 import org.springframework.stereotype.Service;
 
 @Service
